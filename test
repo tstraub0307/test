@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<html> 
+<head> 
+<title>My Website</title> 
+</head> 
+<body> 
+<h1>This is my website</h1> 
+<p>Pretty wasn't asked for. ;-)</p> 
+<p><a href="https://www.codecademy.com/learn/web">There's more.</a></p> 
+</body> 
